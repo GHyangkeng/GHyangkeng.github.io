@@ -1,0 +1,84 @@
+@media (max-width: 768px) {
+}
+.screen_1_box {
+	width: 100%;
+	height: 100%;
+	background: url('img/screen_1/background.png') no-repeat;
+	background-size: 100% 100%;
+}
+.screen_1_search-input_btn_icon {
+	width: 72px;
+	height: 40px;
+	background: url('img/screen_1/seach.png') no-repeat center;
+}
+.screen_1_showInformation_side.front {
+	background: url('img/screen_1/icon_backgroung_01.png') no-repeat;
+	background-size: 100% 100%;
+	color: #4d4d4d;
+}
+.screen_1_showInformation_side.back {
+	transform: rotateY(180deg);
+	background: url('img/screen_1/icon_background_02.png') no-repeat;
+	background-size: 100% 100%;
+	color: #ffffff;
+}
+.screen_1_showInformation_front_01_img_人物 {
+	background: url('img/screen_1/人物0.png') no-repeat;
+}
+.screen_1_showInformation_back_01_img_人物 {
+	background: url('img/screen_1/人物1.png') no-repeat;
+}
+.screen_1_showInformation_front_01_img_全部数据 {
+	background: url('img/screen_1/全部数据0.png') no-repeat;
+}
+.screen_1_showInformation_back_01_img_全部数据 {
+	background: url('img/screen_1/全部数据1.png') no-repeat;
+}
+.screen_1_showInformation_front_01_img_文献元数据 {
+	background: url('img/screen_1/文献元数据0.png') no-repeat;
+}
+.screen_1_showInformation_back_01_img_文献元数据 {
+	background: url('img/screen_1/文献元数据1.png') no-repeat;
+}
+.screen_1_showInformation_front_01_img_细粒度元数据 {
+	background: url('img/screen_1/细粒度元数据0.png') no-repeat;
+}
+.screen_1_showInformation_back_01_img_细粒度元数据 {
+	background: url('img/screen_1/细粒度元数据1.png') no-repeat;
+}
+.screen_1_showInformation_front_01_img_图表元数据 {
+	background: url('img/screen_1/图表元数据0.png') no-repeat;
+}
+.screen_1_showInformation_back_01_img_图表元数据 {
+	background: url('img/screen_1/图表元数据1.png') no-repeat;
+}
+.screen_1_showInformation_front_01_img_机构 {
+	background: url('img/screen_1/机构0.png') no-repeat;
+}
+.screen_1_showInformation_back_01_img_机构 {
+	background: url('img/screen_1/机构1.png') no-repeat;
+}
+.screen_1_showInformation_front_01_img_事件 {
+	background: url('img/screen_1/事件0.png') no-repeat;
+}
+.screen_1_showInformation_back_01_img_事件 {
+	background: url('img/screen_1/事件1.png') no-repeat;
+}
+.screen_1_showInformation_front_01_img_地理 {
+	background: url('img/screen_1/地理0.png') no-repeat;
+}
+.screen_1_showInformation_back_01_img_地理 {
+	background: url('img/screen_1/地理1.png') no-repeat;
+}
+.screen_1_showInformation_front_01_img_专题 {
+	background: url('img/screen_1/专题0.png') no-repeat;
+}
+.screen_1_showInformation_back_01_img_专题 {
+	background: url('img/screen_1/专题1.png') no-repeat;
+}
+.screen_1_showInformation_front_01_img_作品 {
+	background: url('img/screen_1/作品0.png') no-repeat;
+}
+.screen_1_showInformation_back_01_img_作品 {
+	background: url('img/screen_1/作品1.png') no-repeat;
+}

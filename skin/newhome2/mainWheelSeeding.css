@@ -1,0 +1,62 @@
+@media (max-width: 768px) {
+}
+.mainWheelSeeding_box {
+	width: 100%;
+	height: calc(100vh);
+	background: #e3dbd7;
+}
+.mainWheelSeeding_btn {
+	width: 32px;
+	position: absolute;
+	top: 350px;
+	right: 0px;
+	z-index: 9999999;
+}
+.mainWheelSeeding_btn_li {
+	position: relative;
+	width: 14px;
+	height: 14px;
+	list-style: none;
+	margin-top: 30px;
+	border-radius: 14px;
+	cursor: pointer;
+	border: 1px solid #508176;
+}
+.mainWheelSeeding_btn_li_div {
+	height: 20px;
+	background: #397168;
+	padding: 8px 18px;
+	position: absolute;
+	top: -10px;
+	right: 28px;
+	border-radius: 6px;
+	font-size: 14px;
+	color: #fff;
+	width: 142px;
+}
+.mainWheelSeeding_btn_li_triangle {
+	width: 0;
+	height: 0;
+	border: 6px solid transparent;
+	border-left-color: #397168;
+	position: relative;
+	bottom: 16px;
+	left: 160px;
+}
+.mainWheelSeeding_btn_li:hover {
+	background: #508176;
+}
+.bottom_toggle_big_button {
+	cursor: pointer;
+	z-index: 9999999;
+	width: 50px;
+	height: 50px;
+	background: #282828;
+	opacity: 0.4;
+	border-radius: 50px;
+	color: #fff;
+	font-size: 36px;
+	position: absolute;
+	bottom: 72px;
+	right: 18px;
+}

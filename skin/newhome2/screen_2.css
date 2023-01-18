@@ -1,0 +1,49 @@
+@media (max-width: 768px) {
+}
+.screen_2_box {
+	width: 100%;
+	height: 100%;
+	background: url('img/screen_2/大背景.jpg') no-repeat;
+	background-size: 100% 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.screen_2_picture_scroll {
+	width: 70%;
+	height: 70%;
+	margin-top: 72px;
+	background: url('img/卷轴.png') no-repeat;
+	background-size: 100% 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.screen_2_inside_scroll {
+	width: 92%;
+	height: 86%;
+	background: url('img/screen_2/卷轴内背景.png') no-repeat;
+	background-size: 100% 100%;
+}
+.screen_2_headline_left {
+	width: 42px;
+	height: 18px;
+	background: url('img/标题装饰.png') no-repeat;
+	background-size: 100% 100%;
+}
+.screen_2_headline_right {
+	width: 42px;
+	height: 18px;
+	background: url('img/标题装饰.png') no-repeat;
+	background-size: 100% 100%;
+	-moz-transform: scaleX(-1);
+	-webkit-transform: scaleX(-1);
+	-o-transform: scaleX(-1);
+	transform: scaleX(-1);
+}
+#screen_2_llisContainer {
+	height: 400px;
+	width: 600px;
+	background: url('img/饼图边框.png') no-repeat 173px 48px;
+	background-size: 254px;
+}
